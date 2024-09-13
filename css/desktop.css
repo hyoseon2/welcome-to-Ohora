@@ -1,0 +1,243 @@
+@media (min-width: 992px){
+
+    img.m{display: none;}
+    img.tab{display: none;}
+    img.pc{display: block;}
+
+    header{
+        padding: 150px 20px;
+    }
+
+    header .wrap{
+        width: 1320px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    header .wrap .left{
+        display: block;
+    }
+
+    header .wrap .left img{
+        width: 592px;
+    }
+
+    header .wrap .right .mid h1{
+        font-size: 64px;
+    }
+
+    header .wrap .right .bottom p{
+        font-size: 40px;
+    }
+
+    .section1{
+        padding: 150px 20px;
+    }
+
+    .section1 .wrap{
+        width: 1320px;
+        margin: 0 auto;
+    }
+
+    .section1 .wrap h4{
+        margin-top: 12px;
+        font-size: 32px;
+    }
+
+    .section1 .wrap p{
+        font-size: 16px;
+    }
+
+    .section2{
+        padding: 150px 20px;
+    }
+
+    .section2 .wrap{
+        width: 1320px;
+        margin: 0 auto;
+    }
+
+    .section2 .wrap h4{
+        margin-top: 12px;
+        font-size: 32px;
+    }
+
+    .section2 .wrap .color_palette h5{
+        font-size: 24px;
+    }
+
+    .section2 .wrap .color_palette p{
+        font-size: 16px;
+    }
+
+    .section2 .wrap .color_palette ul{
+        padding: 40px 0;
+    }
+
+    .section2 .wrap .color_palette ul li .box{
+        width: 230px;
+        height: 80px;
+        background-color: #fffed3;
+    }
+
+    .section2 .wrap .color_palette ul li .box2{
+        background-color: #eacfff;
+    }
+    
+    .section2 .wrap .color_palette ul li .box3{
+        background-color: #ff5835;
+    }
+    
+    .section2 .wrap .color_palette ul li .box4{
+        background-color: #000000;
+    }
+    
+    .section2 .wrap .color_palette ul li .box5{
+        background-color: #ffffff;
+    }
+
+    .section2 .wrap .color_palette ul li h6{
+        display: block;
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    
+    .section2 .wrap .color_palette ul li span{
+        display: block;
+        font-size: 16px;
+        font-weight: lighter;
+        margin-top: 2px;
+    }
+    
+    .section2 .wrap .typography h5{
+        font-size: 24px;
+    }
+    
+    .section2 .wrap .typography p{
+        font-size: 16px;
+    }
+
+    .section2 .wrap .typography .font{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .section2 .wrap .typography .font .left{
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .section2 .wrap .typography .font .left h6{
+        font-size: 40px;
+    }
+    
+    .section2 .wrap .typography .font .right{
+        display: block;
+    }
+
+    .section2 .wrap .typography .font .right ul{
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .section2 .wrap .typography .font .right ul li span{
+        font-size: 24px;
+    }
+
+    .section2 .wrap .typography .font .right ul li p{
+        font-size: 18px;
+    }
+
+    .section2 .wrap .typography .font .right ul .regular span{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 400;
+    }
+
+    .section2 .wrap .typography .font .right ul .regular p{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 400;
+    }
+
+    .section2 .wrap .typography .font .right ul li.medium span{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 600;
+    }
+
+    .section2 .wrap .typography .font .right ul li.medium p{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 600;
+    }
+
+    .section2 .wrap .typography .font .right ul li.bold span{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 800;
+    }
+
+    .section2 .wrap .typography .font .right ul li.bold p{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 800;
+    }
+
+    .section2 .wrap .typography .font .right ul li.black span{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 950;
+    }
+
+    .section2 .wrap .typography .font .right ul li.black p{
+        font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        font-weight: 950;
+    }
+
+    .section3{
+        padding: 150px 20px;
+    }
+
+    .section3 .wrap{
+        width: 1320px;
+        margin: 0 auto;
+    }
+
+    .section3 .wrap h4{
+        margin-top: 12px;
+        font-size: 32px;
+    }
+    .section3 .wrap ul li{
+        display: flex;
+        gap: 40px;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .section3 .wrap ul li p{
+        display: block;
+        text-align: center;
+    }
+
+    footer{
+        background-color: #f8f8f8;
+        padding: 150px 10px;
+        text-align: center;
+    }
+    
+    footer h3{
+        font-size: 50px;
+    }
+    
+    footer a{
+        width: 190px;
+        height: 35px;
+        line-height: 35px;
+        border: 1px solid #111111;
+        border-radius: 4px;
+        margin: 60px auto;
+    }
+    
+    footer p{
+        font-size: 10px;
+    }
+
+}
